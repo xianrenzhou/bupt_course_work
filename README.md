@@ -1,2 +1,2 @@
-# bput_course_work
+# bupt_course_work
 records for all courses during my study in bput
